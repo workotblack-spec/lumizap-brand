@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none" aria-label="LumiZap">
+  <!-- Orbit circle -->
+  <circle cx="30" cy="30" r="22" stroke="#ffe066" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.5"/>
+  <!-- Lamp body -->
+  <ellipse cx="30" cy="30" r="10" fill="#ffe066" opacity="0.15"/>
+  <!-- Zap bolt -->
+  <path d="M33 18 L24 30 L30 30 L27 42 L36 28 L30 28 Z" fill="#ffe066"/>
+  <!-- Wordmark -->
+  <text x="62" y="37" font-family="Syne, sans-serif" font-weight="800" font-size="22" fill="#eef0f5" letter-spacing="1">LumiZap</text>
+  <!-- Dot accent -->
+  <circle cx="58" cy="33" r="3" fill="#ff8c00"/>
+</svg>
